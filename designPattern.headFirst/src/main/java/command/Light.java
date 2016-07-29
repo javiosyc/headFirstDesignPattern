@@ -7,7 +7,7 @@ public class Light {
 	}
 
 	public void off() {
-		//
+		//as
 		
 	}
 
